@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @DevilGAJJU
-- 👀 I’m interested in sharing my knowledge to the world
-- 🌱 I’m currently learning Python
+👋 Hi there! I'm Gajendra 👋
 
-<!---
-DevilGAJJU/DevilGAJJU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an AI/ML Engineer and a passionate Python Developer. I'm always eager to learn more about emerging technologies and how they can be applied to solve real-world problems. 
+
+🔭 **Currently working on**: 
+- AI and machine learning projects
+- Enhancing my skills in Python and other programming languages
+
+🌱 **Learning**: 
+- Advanced AI/ML techniques
+- New programming languages and technologies
+
+💼 **Professional Interests**: 
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Python Development
+
+✨ **Skills**: 
+- Python
+- Machine Learning
+- Data Analysis
+- AI Algorithms
+
+📫 **How to reach me**: 
+- https://www.linkedin.com/in/gajendra-teli
+  

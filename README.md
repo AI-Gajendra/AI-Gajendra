@@ -26,12 +26,12 @@
 
 ## 🧰 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-black?style=flat&logo=raspberry-pi)
-![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow?style=flat&logo=huggingface)
 
 ---

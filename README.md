@@ -71,9 +71,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Gajendra&layout=compact&theme=tokyonight" height="170" />
 </p>
 
+## 📈 GitHub Activity Graph
+
 <p align="center">
-  <img src="[https://github-readme-activity-graph.cyclic.app/graph?username=AI-Gajendra&theme=tokyo-night&area=true&hide_border=true](https://github-activity-graph.vercel.app/graph?username=AI-Gajendra&theme=tokyo-night&area=true&hide_border=true)" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=AI-Gajendra&theme=tokyo-night&area=true&hide_border=true" />
 </p>
+
 
 ---
 

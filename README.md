@@ -57,7 +57,6 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 1st Place, Shankara Global Hackathon 2025
 - 📚 Analyzed 15+ research papers on LLMs and generative models
 - 🚀 Mentored 20+ students, 5+ AI/IoT projects
 - 💡 Supported 2 student startups (1 pitched for pre-seed funding)

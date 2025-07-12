@@ -32,7 +32,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow?style=flat&logo=huggingface)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=flat&logo=huggingface)
 
 ---
 
